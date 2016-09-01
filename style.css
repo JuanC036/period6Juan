@@ -1,3 +1,23 @@
+@import 'https://fonts.googleapis.com/css?family=Faster+One';
 h1 {
   color : red;
+  font-family: Faster One;
+}
+p{
+  font-family: Faster One;
+}
+body{
+  background-color:yellow;
+}
+#reverseflash{
+  color:yellow;
+}
+.rf{
+  background-color: red;
+}
+.zm{
+  background-color: black;
+}
+#zoom{
+  color: blue;
 }
