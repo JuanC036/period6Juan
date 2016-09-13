@@ -3,18 +3,24 @@
 h1 {
   color : red;
   font-family: Faster One;
+  text-align: center;
+}
+h2{
+  font-family: Faster One;
 }
 p{
   font-family: Faster One;
 }
-body{
-  background-color:yellow;
+img{
+  display: block;
+  margin: auto;
 }
 #reverseflash{
   color:yellow;
 }
 .rf{
   background-color: red;
+
 }
 .zm{
   background-color: black;
@@ -24,5 +30,22 @@ body{
 }
 .type{
   color: white;
-  font-family: Montserrat;
+  font-family: Faster One;
+  color: gray;
+  background-color: black;
+}
+#pic{
+  display: inline;
+}
+#hi{
+  color: gray;
+}
+#pics{
+  border: 3px dashed white;
+}
+#di{
+  border: 5px solid yellow;
+}
+.fl{
+  background-color: yellow;
 }
